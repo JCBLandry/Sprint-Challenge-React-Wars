@@ -10,7 +10,7 @@ const List = props => {
                    key = {char.created}
                />
            ))}
-       </div>
+       </div> 
    )
 }
 
